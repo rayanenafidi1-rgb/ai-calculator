@@ -1,0 +1,7 @@
+{
+  "name": "Wlidat Mimi",
+  "description": "A world-class scientific calculator named Wlidat Mimi, enhanced with Gemini AI to solve complex word problems and provide step-by-step mathematical explanations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
